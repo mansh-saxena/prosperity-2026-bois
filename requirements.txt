@@ -1,0 +1,8 @@
+pandas
+numpy<2
+matplotlib
+typer
+jsonpickle
+orjson
+ipython
+tqdm
